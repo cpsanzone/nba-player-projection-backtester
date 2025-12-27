@@ -1,0 +1,54 @@
+[
+    {
+        "name": "LeBron James",
+        "url_ending": "/players/j/jamesle01.html"
+    },
+    {
+        "name": "Nikola Jokic",
+        "url_ending": "/players/j/jokicni01.html"
+    },
+    {
+        "name": "Luka Doncic",
+        "url_ending": "/players/d/doncilu01.html"
+    },
+    {
+        "name": "Giannis Antetokounmpo",
+        "url_ending": "/players/a/antetgi01.html"
+    },
+    {
+        "name": "Shai Gilgeous-Alexander",
+        "url_ending": "/players/g/gilgesh01.html"
+    },
+    {
+        "name": "Austin Reaves",
+        "url_ending": "/players/r/reavsau01.html"
+    },
+    {
+        "name": "Tyrese Maxey",
+        "url_ending": "/players/m/maxeyty01.html"
+    },
+    {
+        "name": "Donovan Mitchell",
+        "url_ending": "/players/m/mitchdo01.html"
+    },
+    {
+        "name": "Devin Booker",
+        "url_ending": "/players/b/bookede01.html"
+    },
+    {
+        "name": "Lauri Markkanen",
+        "url_ending": "/players/m/markkla01.html"
+    },
+    {
+        "name": "Jalen Brunson",
+        "url_ending": "/players/b/brunsja01.html"
+    },
+    {
+        "name": "Jaylen Brown",
+        "url_ending": "/players/b/brownja02.html"
+    },
+    {
+        "name": "Cade Cunningham",
+        "url_ending": "/players/c/cunnica01.html"
+    }
+]
